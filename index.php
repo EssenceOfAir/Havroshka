@@ -1520,9 +1520,6 @@ ul > .slick-dots {
                   <div class="droit visible-sm visible-xs">
                 <p>© Все права защищены. 2015<br/>Информация сайта защищена законом об авторских правах.</p>
                   </div>
-                  <div class="devlopement">
-                    <p>Разработка WONDER</p>
-                  </div>
 
 
 
